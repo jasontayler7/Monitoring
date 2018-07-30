@@ -290,3 +290,10 @@ WantedBy=multi-user.target
 - sudo systemctl enable jenkins_exporter.service
 
 - sudo systemctl start jenkins_exporter.service
+
+
+
+
+![promethus1](https://github.com/lovedeepsh/Monitoring/blob/master/Monitoring_day1_images/prometheus1.png)
+![prometheus2](https://github.com/lovedeepsh/Monitoring/blob/master/Monitoring_day1_images/prometheus2.png)
+
